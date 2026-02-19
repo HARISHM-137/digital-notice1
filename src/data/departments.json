@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Computer Science & Engineering",
+        "code": "CSE",
+        "hod": "Dr. Rajesh Kumar",
+        "facultyCount": 12,
+        "programCount": 3
+    },
+    {
+        "id": 2,
+        "name": "Electronics & Communication",
+        "code": "ECE",
+        "hod": "Dr. Priya Sharma",
+        "facultyCount": 10,
+        "programCount": 2
+    },
+    {
+        "id": 3,
+        "name": "Mechanical Engineering",
+        "code": "ME",
+        "hod": "Dr. Suresh Patel",
+        "facultyCount": 8,
+        "programCount": 2
+    }
+]

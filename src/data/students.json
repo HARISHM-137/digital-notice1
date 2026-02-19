@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Arjun Mehta",
+        "rollNo": "CSE2021001",
+        "email": "arjun.m@student.edu",
+        "program": "BTCSE",
+        "semester": 5,
+        "cgpa": 8.5
+    },
+    {
+        "id": 2,
+        "name": "Priya Sharma",
+        "rollNo": "CSE2021002",
+        "email": "priya.s@student.edu",
+        "program": "BTCSE",
+        "semester": 5,
+        "cgpa": 9.2
+    },
+    {
+        "id": 3,
+        "name": "Rahul Kumar",
+        "rollNo": "CSE2021003",
+        "email": "rahul.k@student.edu",
+        "program": "BTCSE",
+        "semester": 5,
+        "cgpa": 7.8
+    },
+    {
+        "id": 4,
+        "name": "Sneha Patel",
+        "rollNo": "CSE2021004",
+        "email": "sneha.p@student.edu",
+        "program": "BTCSE",
+        "semester": 5,
+        "cgpa": 8.9
+    },
+    {
+        "id": 5,
+        "name": "Vikash Singh",
+        "rollNo": "CSE2021005",
+        "email": "vikash.s@student.edu",
+        "program": "BTCSE",
+        "semester": 5,
+        "cgpa": 7.5
+    },
+    {
+        "id": 6,
+        "name": "Anjali Reddy",
+        "rollNo": "ECE2021001",
+        "email": "anjali.r@student.edu",
+        "program": "BTECE",
+        "semester": 5,
+        "cgpa": 8.7
+    },
+    {
+        "id": 7,
+        "name": "Karthik Iyer",
+        "rollNo": "ECE2021002",
+        "email": "karthik.i@student.edu",
+        "program": "BTECE",
+        "semester": 5,
+        "cgpa": 8.3
+    },
+    {
+        "id": 8,
+        "name": "Deepika Nair",
+        "rollNo": "ME2021001",
+        "email": "deepika.n@student.edu",
+        "program": "BTME",
+        "semester": 5,
+        "cgpa": 8.1
+    },
+    {
+        "id": 9,
+        "name": "Arun Krishnan",
+        "rollNo": "ME2021002",
+        "email": "arun.k@student.edu",
+        "program": "BTME",
+        "semester": 5,
+        "cgpa": 7.9
+    },
+    {
+        "id": 10,
+        "name": "Megha Jain",
+        "rollNo": "CSE2020001",
+        "email": "megha.j@student.edu",
+        "program": "MTCSE",
+        "semester": 3,
+        "cgpa": 9.0
+    }
+]
