@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Anita Gupta",
+        "email": "anita.gupta@college.edu",
+        "department": "CSE",
+        "designation": "Associate Professor",
+        "subjects": [
+            "CS201",
+            "CS501"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Prof. Vikram Singh",
+        "email": "vikram.singh@college.edu",
+        "department": "CSE",
+        "designation": "Assistant Professor",
+        "subjects": [
+            "CS301"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dr. Meera Joshi",
+        "email": "meera.joshi@college.edu",
+        "department": "CSE",
+        "designation": "Associate Professor",
+        "subjects": [
+            "CS302"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Prof. Rahul Verma",
+        "email": "rahul.verma@college.edu",
+        "department": "CSE",
+        "designation": "Assistant Professor",
+        "subjects": [
+            "CS401"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Dr. Rajesh Kumar",
+        "email": "rajesh.kumar@college.edu",
+        "department": "CSE",
+        "designation": "Professor & HOD",
+        "subjects": [
+            "MC501"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dr. Sanjay Kumar",
+        "email": "sanjay.kumar@college.edu",
+        "department": "ECE",
+        "designation": "Associate Professor",
+        "subjects": [
+            "EC201"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Prof. Neha Agarwal",
+        "email": "neha.agarwal@college.edu",
+        "department": "ECE",
+        "designation": "Assistant Professor",
+        "subjects": [
+            "EC301"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Dr. Amit Shah",
+        "email": "amit.shah@college.edu",
+        "department": "ME",
+        "designation": "Associate Professor",
+        "subjects": [
+            "ME201"
+        ]
+    }
+]

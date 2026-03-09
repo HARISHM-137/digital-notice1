@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "B.Tech Computer Science & Engineering",
+        "code": "BTCSE",
+        "department": "CSE",
+        "duration": "4 Years",
+        "totalPOs": 12,
+        "totalPSOs": 3
+    },
+    {
+        "id": 2,
+        "name": "M.Tech Computer Science",
+        "code": "MTCSE",
+        "department": "CSE",
+        "duration": "2 Years",
+        "totalPOs": 12,
+        "totalPSOs": 2
+    },
+    {
+        "id": 3,
+        "name": "B.Tech Electronics & Communication",
+        "code": "BTECE",
+        "department": "ECE",
+        "duration": "4 Years",
+        "totalPOs": 12,
+        "totalPSOs": 3
+    },
+    {
+        "id": 4,
+        "name": "B.Tech Mechanical Engineering",
+        "code": "BTME",
+        "department": "ME",
+        "duration": "4 Years",
+        "totalPOs": 12,
+        "totalPSOs": 3
+    },
+    {
+        "id": 5,
+        "name": "M.Tech Mechanical Engineering",
+        "code": "MTME",
+        "department": "ME",
+        "duration": "2 Years",
+        "totalPOs": 12,
+        "totalPSOs": 2
+    }
+]

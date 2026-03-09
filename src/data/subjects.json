@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Data Structures & Algorithms",
+        "code": "CS201",
+        "program": "BTCSE",
+        "semester": 3,
+        "credits": 4,
+        "faculty": "Dr. Anita Gupta",
+        "coCount": 6
+    },
+    {
+        "id": 2,
+        "name": "Database Management Systems",
+        "code": "CS301",
+        "program": "BTCSE",
+        "semester": 4,
+        "credits": 4,
+        "faculty": "Prof. Vikram Singh",
+        "coCount": 5
+    },
+    {
+        "id": 3,
+        "name": "Operating Systems",
+        "code": "CS302",
+        "program": "BTCSE",
+        "semester": 4,
+        "credits": 4,
+        "faculty": "Dr. Meera Joshi",
+        "coCount": 6
+    },
+    {
+        "id": 4,
+        "name": "Computer Networks",
+        "code": "CS401",
+        "program": "BTCSE",
+        "semester": 5,
+        "credits": 4,
+        "faculty": "Prof. Rahul Verma",
+        "coCount": 5
+    },
+    {
+        "id": 5,
+        "name": "Machine Learning",
+        "code": "CS501",
+        "program": "BTCSE",
+        "semester": 6,
+        "credits": 3,
+        "faculty": "Dr. Anita Gupta",
+        "coCount": 5
+    },
+    {
+        "id": 6,
+        "name": "Digital Electronics",
+        "code": "EC201",
+        "program": "BTECE",
+        "semester": 3,
+        "credits": 4,
+        "faculty": "Dr. Sanjay Kumar",
+        "coCount": 6
+    },
+    {
+        "id": 7,
+        "name": "Signal Processing",
+        "code": "EC301",
+        "program": "BTECE",
+        "semester": 4,
+        "credits": 4,
+        "faculty": "Prof. Neha Agarwal",
+        "coCount": 5
+    },
+    {
+        "id": 8,
+        "name": "Thermodynamics",
+        "code": "ME201",
+        "program": "BTME",
+        "semester": 3,
+        "credits": 4,
+        "faculty": "Dr. Amit Shah",
+        "coCount": 6
+    },
+    {
+        "id": 9,
+        "name": "Fluid Mechanics",
+        "code": "ME301",
+        "program": "BTME",
+        "semester": 4,
+        "credits": 4,
+        "faculty": "Prof. Kiran Rao",
+        "coCount": 5
+    },
+    {
+        "id": 10,
+        "name": "Advanced Algorithms",
+        "code": "MC501",
+        "program": "MTCSE",
+        "semester": 1,
+        "credits": 4,
+        "faculty": "Dr. Rajesh Kumar",
+        "coCount": 5
+    }
+]
